@@ -1,0 +1,16 @@
+{
+    "name": "Promotions",
+    "alias": "promotions",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "App\\Modules\\Promotions\\Providers\\PromotionsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
